@@ -50,3 +50,5 @@ while changes:
 fig, ax = plt.subplots()
 ax.plot(x, marker="o", linestyle='')
 plt.show()
+
+
